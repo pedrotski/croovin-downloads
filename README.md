@@ -4,7 +4,7 @@ Official desktop installers for [Croovin](https://play.croovin.com/discover/), a
 
 ## Mac preview
 
-[Download Croovin for Mac](https://github.com/pedrotski/croovin-downloads/releases/download/v0.1.0-preview.1/Croovin-0.1.0-preview.1-mac-universal.dmg)
+[Download Croovin for Mac](https://github.com/pedrotski/croovin-downloads/releases/download/v0.1.0-preview.2/Croovin-0.1.0-preview.2-mac-universal.dmg)
 
 macOS 13 or later. One universal installer for Apple Silicon and Intel.
 Open the DMG, drag Croovin to Applications, and launch it from Applications.
